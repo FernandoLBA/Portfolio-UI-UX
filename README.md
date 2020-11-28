@@ -6,11 +6,6 @@
 - Pexels
 - Photoshop
 
-# ARTGENT
-![](./ArtGentWireframe.png)
-* Ver en línea:
-https://www.figma.com/proto/LBFB1MIAHo6wrLzKX8g8fw/ARTGENT-FB-Copy?node-id=101%3A3&viewport=471%2C60%2C0.10715387016534805&scaling=scale-down-width
-
 # IMAGINE
 ![](./Imagine-FB.png)
 * Ver en línea:
