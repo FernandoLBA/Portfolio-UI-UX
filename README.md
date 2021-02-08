@@ -13,6 +13,8 @@
 ![](./LandingPage.jpg)
 ![](./AppSocial.jpg)
 ![](./AppProfile.jpg)
+![](./AppChat.jpg)
+![](./BrandBiKr.png)
 * Ver en línea:
 https://xd.adobe.com/view/16a6b07e-f127-4fcf-b591-e11c086f2459-43f5/
 
