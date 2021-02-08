@@ -9,7 +9,7 @@
 - Pixabay
 - Pexels
 
-# BiKr
+# BiKr (On Development)
 ![](./LandingPage.jpg)
 ![](./AppSocial.jpg)
 ![](./AppProfile.jpg)
