@@ -21,7 +21,7 @@ https://xd.adobe.com/view/16a6b07e-f127-4fcf-b591-e11c086f2459-43f5/
 
 # GRILLER
 ![](./griller.png)
-![](-/grillerLogo.png)
+![](./grillerLogo.png)
 * Ver en línea
 https://www.crehana.com/proyecto/fbarrios-pyc/diseno-ux-landing-page/
 
