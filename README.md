@@ -17,7 +17,7 @@
 ![](./BrandBiKr.png)
 ![](./UserFlowMobileBiKr.png)
 * Ver en línea:
-https://xd.adobe.com/view/16a6b07e-f127-4fcf-b591-e11c086f2459-43f5/
+https://marvelapp.com/prototype/g0e8b34
 
 # GRILLER
 ![](./griller.png)
@@ -28,9 +28,11 @@ https://www.crehana.com/proyecto/fbarrios-pyc/diseno-ux-landing-page/
 # ARTGENT
 ![](./artgent.png)
 ![](./artgentLogo.png)
+* Ver en línea:
+https://xd.adobe.com/view/5b771341-afab-4e94-9747-93850129b23c-0e24/?fullscreen
 
 # FCVCOMPUTER
-![](./fcvcomputer.jpg)
+![](./fcvcomputer.png)
 * Ver en línea:
 http://www.fcvcomputer.com
 
