@@ -10,7 +10,7 @@
 - Pexels
 
 # BiKr (On Development)
-![](./LandingPage.jpg)
+![](./LandingPage-min.jpg)
 ![](./AppSocial.jpg)
 ![](./AppProfile.jpg)
 ![](./AppChat.jpg)
@@ -20,19 +20,19 @@
 https://marvelapp.com/prototype/g0e8b34
 
 # GRILLER
-![](./griller.png)
+![](./griller-min.png)
 ![](./logoGriller.png)
 * Ver en línea
 https://www.crehana.com/proyecto/fbarrios-pyc/diseno-ux-landing-page/
 
 # ARTGENT
-![](./artgent.png)
+![](./artgent-min.png)
 ![](./artgentLogo.png)
 * Ver en línea:
 https://xd.adobe.com/view/5b771341-afab-4e94-9747-93850129b23c-0e24/?fullscreen
 
 # FCVCOMPUTER
-![](./fcvcomputer.png)
+![](./fcvcomputer-min.png)
 * Ver en línea:
 http://www.fcvcomputer.com
 
